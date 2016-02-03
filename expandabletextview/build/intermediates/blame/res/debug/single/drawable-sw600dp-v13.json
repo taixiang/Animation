@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyApplication\\expandabletextview\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_expand_holo_light.xml",
+        "source": "E:\\MyApplication\\expandabletextview\\src\\main\\res\\drawable-sw600dp\\ic_expand_holo_light.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\expandabletextview\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-v13\\ic_collapse_holo_light.xml",
+        "source": "E:\\MyApplication\\expandabletextview\\src\\main\\res\\drawable-sw600dp\\ic_collapse_holo_light.xml"
+    }
+]

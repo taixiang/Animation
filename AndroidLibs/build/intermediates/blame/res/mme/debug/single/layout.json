@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\dialog_progress.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\dialog_progress.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\ptr_listview_footer.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\ptr_listview_footer.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\ptr_header.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\ptr_header.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\emotion_smiley_grid_item_s.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\emotion_smiley_grid_item_s.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\emotion_smiley_grid.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\emotion_smiley_grid.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\layout\\emotion_smiley_panel.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\layout\\emotion_smiley_panel.xml"
+    }
+]

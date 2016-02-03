@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\MyApplication\Android_Libs\src\main\assets"/></dataSet><dataSet config="mme"><source path="E:\MyApplication\Android_Libs\src\mme\assets"/></dataSet><dataSet config="debug"><source path="E:\MyApplication\Android_Libs\src\debug\assets"/></dataSet><dataSet config="mmeDebug"><source path="E:\MyApplication\Android_Libs\src\mmeDebug\assets"/></dataSet></merger>

@@ -1,0 +1,4 @@
+include ':app', ':AndroidLibs', ':mylibrary', ':Android_Libs', ':android-pdfview', ':sample', ':lib', ':expandabletextview'
+include ':finalsharescomBAnim_FilpLibrary'
+include ':finalsharescomBAnim_ListViewLibrary'
+include ':finalsharescomBaseAnimation'

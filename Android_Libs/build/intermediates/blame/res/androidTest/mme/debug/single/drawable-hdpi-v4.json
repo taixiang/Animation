@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\res\\merged\\androidTest\\mme\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png",
+        "source": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\bundles\\mme\\debug\\res\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\res\\merged\\androidTest\\mme\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\bundles\\mme\\debug\\res\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\res\\merged\\androidTest\\mme\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
+        "source": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\bundles\\mme\\debug\\res\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\res\\merged\\androidTest\\mme\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png",
+        "source": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\bundles\\mme\\debug\\res\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\res\\merged\\androidTest\\mme\\debug\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png",
+        "source": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\bundles\\mme\\debug\\res\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\res\\merged\\androidTest\\mme\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\bundles\\mme\\debug\\res\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\res\\merged\\androidTest\\mme\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\bundles\\mme\\debug\\res\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\res\\merged\\androidTest\\mme\\debug\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "E:\\MyApplication\\Android_Libs\\build\\intermediates\\bundles\\mme\\debug\\res\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png"
+    }
+]

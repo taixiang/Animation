@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_input_face_delete_default.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_input_face_delete_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_line_horizontal.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_line_horizontal.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_cancel_bg_focused.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\indicator_arrow.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\indicator_arrow.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_input_face_type_background_default.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_input_face_type_background_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\richtext_icon_location.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\richtext_icon_location.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_common_gradient_green.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\loading_progress.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\loading_progress.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_cancel_bg_tap.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\ptr_listview_footer_nomore.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\ptr_listview_footer_nomore.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_input_face_delete_click.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_input_face_delete_click.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_cancel_bg_normal.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_close_bg_selector.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\ptr_default_flip.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\ptr_default_flip.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\ptr_default_rotate.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\ptr_default_rotate.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_ok_bg_selector.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\ptr_selector_no_pressed.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\ptr_selector_no_pressed.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_loading_default.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_loading_default.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_common_gradient_orange.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_ok_bg_focused.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_loading_complete.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_loading_complete.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\emotion_smiley_tab_bg.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\emotion_smiley_tab_bg.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_wifi_disable.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_title_bg.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_dialog_bg.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_cancel_bg_selector.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_input_face_select_bottom_background.9.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_input_face_select_bottom_background.9.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_vertical_line.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_vertical_line.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_check_selector.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_input_face_type_background_click.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_input_face_type_background_click.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\global_input_delete.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\global_input_delete.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_common_gradient_red.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_ok_bg_normal.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\ptr_pulltorefresh_arrow.png",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\ptr_pulltorefresh_arrow.png"
+    },
+    {
+        "merged": "E:\\MyApplication\\AndroidLibs\\build\\intermediates\\res\\merged\\mme\\debug\\drawable\\umeng_update_button_ok_bg_tap.xml",
+        "source": "E:\\MyApplication\\AndroidLibs\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\ribbon_menu.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\menu\\ribbon_menu.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\optionsmenu.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\menu\\optionsmenu.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\menu_expandablelistitem.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\menu\\menu_expandablelistitem.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\menu\\activity_listview_delete_left_menu.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\menu\\activity_listview_delete_left_menu.xml"
+    }
+]

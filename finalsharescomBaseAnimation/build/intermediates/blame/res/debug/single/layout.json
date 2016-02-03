@@ -1,0 +1,830 @@
+[
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_mi_laucher_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_mi_laucher_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_refresh_header.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_counter_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_counter_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail_nomap.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_comment_detail_nomap.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_weixin_chatting_item_msg_text_left.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_weixin_chatting_item_msg_text_left.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_oauth_dialog.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_droidflakes.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_droidflakes.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_bouncing_balls.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_bouncing_balls.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_activity_contact.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_fb_activity_contact.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_biaopan_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_biaopan_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\item_sort_listview.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\item_sort_listview.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_slidingdrawer_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_slidingdrawer_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_content.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_comment_content.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_badger_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_badger_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_serch_fly_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_serch_fly_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_animateremoval_row.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_animateremoval_row.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_rotate.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_rotate.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_outticket.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_outticket.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_title_listview_section_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_title_listview_section_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flip_page1.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_flip_page1.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\item_spinner_numbers.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\item_spinner_numbers.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_hscrollview_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_hscrollview_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_anim.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\item_listview_anim.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_listview_interceptor_mylistview.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_listview_interceptor_mylistview.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_simple.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_anim_simple.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_refresh_mani.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_refresh_mani.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_curtain.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_progress_mypage_indeter.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_progress_mypage_indeter.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_rotate_3d.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_rotate_3d.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_tabhostmovie_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_tabhostmovie_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_anim_complex.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_anim_complex.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_popwindow_title_two_button.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_popwindow_title_two_button.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_list_row.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_list_row.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flip_complex.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_flip_complex.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_progress_mypage_left.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_progress_mypage_left.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_scrollview_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_scrollview_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_base_alert_dialog_button.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_detail.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_comment_detail.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_delete_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_delete_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_transparent_popwindow_menu.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_transparent_popwindow_menu.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flip_page2.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_flip_page2.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_ribbon_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_ribbon_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_list_header.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_fb_list_header.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_gallery_listview_allvideo_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_gallery_listview_allvideo_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_listforpage_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_listforpage_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_post_comment.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_delete_slide_view_merge.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_delete_slide_view_merge.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_dialogs_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_dialogs_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_listview_interceptor_mylist.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_listview_interceptor_mylist.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_widget_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_widget_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_full_alert_dialog_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_popwindow_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_popwindow_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_scrollview_plugin.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_scrollview_plugin.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_winter_lay1.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_winter_lay1.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_winter_lay2.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_winter_lay2.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_view.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_comment_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_waterfall_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_waterfall_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_vpademo.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_vpademo.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_gviewpager_two.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_gviewpager_two.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_list_delete_alpha_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_list_delete_alpha_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\layout_back.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\layout_back.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_more.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_comment_more.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_animation_seeking.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_animation_seeking.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_animator_events.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_animator_events.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flip_flip_fragment_activity.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_flip_flip_fragment_activity.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_fade2_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_fade2_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_gviewpager_grid_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_gviewpager_grid_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_comment_platform.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_post_comment_platform.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_taobao.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_taobao.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_main_sb.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_main_sb.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_fade_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_fade_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\layout_right.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\layout_right.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_circleimage_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_circleimage_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_wheel_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_wheel_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_weixin_chatting_item_msg_text_right.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_weixin_chatting_item_msg_text_right.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_loding_dialog_layout.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_loding_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_shareboard_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_widget_ctrl_window.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_widget_ctrl_window.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_appearanceexample.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_appearanceexample.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar_comment.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_titile_bar_comment.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_twosidedview_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_twosidedview_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_spinner.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_spinner.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_listforpage_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_listforpage_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_counter_help.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_counter_help.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_refresh_footer.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_refresh_footer.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_split_four.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_split_four.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_googlecards_card.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_googlecards_card.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter_platform_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_ucenter_platform_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_split_one.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_split_one.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_at_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flip_view_controller.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_flip_view_controller.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_click_deflect_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_click_deflect_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_switch_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_switch_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_counter_about.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_counter_about.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flip_page3.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_flip_page3.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_rootblock_main_first.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_rootblock_main_first.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_split_three.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_split_three.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_expandablelistitem_card.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_expandablelistitem_card.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_waterfall_listview_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_waterfall_listview_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_badger_demos.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_badger_demos.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_gviewpager_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_gviewpager_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_viewpager.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_viewpager.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_undo_row.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_undo_row.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_split_two.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_split_two.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_toggles.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_toggles.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_ucenter.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_ucenter.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\item_index_tweake_list_.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\item_index_tweake_list_.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_loding_dialog_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_loding_dialog_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_ribbon_menu.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_ribbon_menu.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_simple_spinner_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_animation_loading.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_animation_loading.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_animation_reversing.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_animation_reversing.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_index_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_index_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_youku.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_youku.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_new_reply_alert_dialog.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_fb_new_reply_alert_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_main_second.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_main_second.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_scrollview_indicator.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_scrollview_indicator.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_morecustom_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_morecustom_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_popwindow_group_list.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_popwindow_group_list.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_googlecards.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_googlecards.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_sort_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_sort_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_comment_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_comment_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_ribbon_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_ribbon_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_gallery_listview_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_gallery_listview_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_progress_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_progress_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_composer_header.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_composer_header.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_badger_tests.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_badger_tests.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_transparent_popwindow_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_transparent_popwindow_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_view.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_at_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_progress_mypage_color.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_progress_mypage_color.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_weixin_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_weixin_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_list_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_fb_list_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_delete_left_chain_cell.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_delete_left_chain_cell.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_property_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_property_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_zaker.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_zaker.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_title_listview_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_title_listview_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_popwindow_group_item_view.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_popwindow_group_item_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_failed_load_page.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_winter_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_winter_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_post_share.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_gallery_listview_allvideo_item_horiitem.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_gallery_listview_allvideo_item_horiitem.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_animator_custom_evaluator.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_animator_custom_evaluator.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_winter_lay3.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_winter_lay3.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_progress_mypage_right.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_progress_mypage_right.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_taobao_path2_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_taobao_path2_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_morecustom_lv1_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_morecustom_lv1_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_lens_focus.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_lens_focus.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_titile_bar.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash_fade_home.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_splash_fade_home.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_examples_itemmanipulations.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_examples_itemmanipulations.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_morecustom_biaopan_view.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_morecustom_biaopan_view.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_actionbar.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_actionbar.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_listview_interceptor_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_listview_interceptor_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_animation_cloning.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_animation_cloning.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_mi_laucher_item.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_mi_laucher_item.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_dialogs_custom.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_dialogs_custom.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_radar.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_radar.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\item_listview_delete.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\item_listview_delete.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_gviewpager_one.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_tab_gviewpager_one.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_gridview.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_gridview.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\layout_left.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\layout_left.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_gallery.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_gallery.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_counter_morefunctions.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_counter_morefunctions.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_pull_to_refresh_header.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_filp_galleryflipitem.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_filp_galleryflipitem.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_bind_select_dialog.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_animation_multi_property.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_animation_multi_property.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listviews_animateremoval.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listviews_animateremoval.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_custom_title_listview_section.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_custom_title_listview_section.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imitate_viberation_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_imitate_viberation_main.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_activity_conversation.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_fb_activity_conversation.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_nineold_pathanimator.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_nineold_pathanimator.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_socialize_at_overlay.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\umeng_socialize_at_overlay.xml"
+    },
+    {
+        "merged": "E:\\MyApplication\\finalsharescomBaseAnimation\\build\\intermediates\\res\\merged\\debug\\layout\\activity_listview_delete_left_main.xml",
+        "source": "E:\\MyApplication\\finalsharescomBaseAnimation\\src\\main\\res\\layout\\activity_listview_delete_left_main.xml"
+    }
+]
